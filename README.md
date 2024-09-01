@@ -1,6 +1,6 @@
 # Criando-um-Dashboard-corporativo-com-integra-o-com-MySQL-e-Azure
 
-![Imagem formacaosqlazure](image/formacaomysql.png)
+![Imagem formacaosqlazure](img/formacaomysql.png)
 
 O desafio consiste em criar um BD, fazer a coleta desse BD utilizando o power BI e logo após transformar os dados afim de deixá-los aptos para a criação de relatório. 
 
