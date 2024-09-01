@@ -4,7 +4,6 @@
 
 O desafio consiste em criar um BD, fazer a coleta desse BD utilizando o power BI e logo após transformar os dados afim de deixá-los aptos para a criação de relatório. 
 
-Foi sugerido a criação de uma instância no azure para a criação e inserção de dados no banco, porém como não tenho mais créditos para utilização no azure criei e inseri dados no banco localmente utilizando para isso o script [azure_company.sql](https://github.com/cibelemoraes/Dashboard-corporativo-com-integra-o-com-MySQL-AZURE-).
 
 -------------
 
@@ -21,7 +20,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Coluna antes da divisão**
 <p align="center" alt="Coluna antes da divisão">
 <img 
-    src="image/DividindoAddress01.png"
+    src="img/DividindoAddress01.png"
     width="800"  
 />
 </p>
@@ -29,7 +28,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Colunas após a divisão**
 <p align="center" alt="Colunas após a divisão">
 <img 
-    src="image/AposDivisaoAddress02.png"
+    src="img/AposDivisaoAddress02.png"
     width="800"  
 />
 </p>
@@ -39,7 +38,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Parâmetros da Mescla de Consultas**
 <p align="center" alt="Parâmetros da Mescla de Consultas">
 <img 
-    src="image/MesclarEmpDept03.png"
+    src="img/MesclarEmpDept03.png"
     width="500"  
 />
 </p>
@@ -47,7 +46,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Resultado da Mescla de Consultas**
 <p align="center" alt="Resultado da Mescla de Consultas">
 <img 
-    src="image/ResultadoMesclaEmpDept04.png"
+    src="img/ResultadoMesclaEmpDept04.png"
     width="500"  
 />
 </p>
@@ -57,7 +56,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Parâmetros da Mescla de Consultas**
 <p align="center" alt="Parâmetros da Mescla de Consultas">
 <img 
-    src="image/MesclaNomeGerente05.png"
+    src="img/MesclaNomeGerente05.png"
     width="500"  
 />
 </p>
@@ -65,7 +64,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Resultado da Mescla de Consultas**
 <p align="center" alt="Resultado da Mescla de Consultas">
 <img 
-    src="image/NomeGerentee06.png"
+    src="img/NomeGerentee06.png"
     width="500"  
 />
 </p>
@@ -75,7 +74,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Parâmetros da Mescla de Colunas**
 <p align="center" alt="Parâmetros da Mescla de Colunas">
 <img 
-    src="image/MesclaNomeSobrenomeParam07.png"
+    src="img/MesclaNomeSobrenomeParam07.png"
     width="400"  
 />
 </p>
@@ -83,7 +82,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Resultado da Mescla de Colunas**
 <p align="center" alt="Resultado da Mescla de Colunas">
 <img 
-    src="image/MesclaColunaNomeSobrenomeResult08.png"
+    src="img/MesclaColunaNomeSobrenomeResult08.png"
     width="500"  
 />
 </p>
@@ -93,7 +92,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Parâmetros da Mescla de Consultas**
 <p align="center" alt="Parâmetros da Mescla de Consultas">
 <img 
-    src="image/MesclaDept-Dept_locationParam09.png"
+    src="img/MesclaDept-Dept_locationParam09.png"
     width="500"  
 />
 </p>
@@ -101,7 +100,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Resultado da Mescla de Consultas**
 <p align="center" alt="Resultado da Mescla de Consultas">
 <img 
-    src="image/MesclaDept-Dept_locationResult10.png"
+    src="img/MesclaDept-Dept_locationResult10.png"
     width="500"  
 />
 </p>
@@ -113,7 +112,7 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Parâmetros do Agrupamento de Colunas**
 <p align="center" alt="Parâmetros do Agrupamento de Colunas">
 <img 
-    src="image/AgregManagerColaboradorParam11.png"
+    src="img/AgregManagerColaboradorParam11.png"
     width="500"  
 />
 </p>
@@ -121,11 +120,11 @@ Após a criação do banco os dados foram integrados com o Power BI e os passos 
 **Resultado do Agrupamento de Colunas**
 <p align="center" alt="Resultado do Agrupamento de Colunas">
 <img 
-    src="image/AgregColunaManagerColaboradorResult12.png"
+    src="img/AgregColunaManagerColaboradorResult12.png"
     width="500"  
 />
 </p>
 
 
-Relatório desenvolvido por Cibele Gomes Domingos Moraes .
+Relatório desenvolvido por Leonardo Gildo.
 
